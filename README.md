@@ -41,6 +41,8 @@ cd [project]/src
 python Game.py (you might need to use the python3 command on some systems)
 ```
 
+Warning! The bash terminal that comes with [Git for Windows](https://git-scm.com/download/win) has been known to be buggy when displaying some program output. If you are on Windows, please use the Command Prompt or PowerShell to run the game.
+
 ### Prerequisites
 
 The only requirement to run this game is [Python 3](https://www.python.org/).
