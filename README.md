@@ -41,14 +41,12 @@ cd [project]/src
 python Game.py (you might need to use the python3 command on some systems)
 ```
 
-Warning! The terminal that comes with [Git for Windows](https://git-scm.com/download/win) has been known to be buggy when displaying some program output. If you are on Windows, please use the Command Prompt or PowerShell to run the game.
-
 ### Prerequisites
 
 The only requirement to run this game is [Python 3](https://www.python.org/).
 
-I used Python 3.7.2 specifically when writing the code, and, to ensure maximum compatibility, you should try to match this version as closely as possible.
+I used Python 3.7 when writing the code.
 
 ## Authors
 
-* **Gregory C. Sullivan** - [GitHub](https://github.com/connorsullivan)
+* **Connor Sullivan** - [GitHub](https://github.com/connorsullivan)
